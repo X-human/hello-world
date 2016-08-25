@@ -1,2 +1,5 @@
 # hello-world
-a short description 
+
+Hi humans!
+
+Hubot here! I am brave!
